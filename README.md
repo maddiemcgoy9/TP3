@@ -2,7 +2,7 @@
 # Add this:
 ## Nice visuals to illustrate your main concepts and why this project is important for businesses.
 ## Author List: With links to each member's GitHub page. Each member's GitHub page should have a proper readme profile with a well-written bio.
-Desmond Harvey
+Desmond Harvey: [@Desmond-Harvey](https://github.com/Desmond-Harvey)
 
 Madeline McGaughey: [@maddiemcgoy9](https://github.com/maddiemcgoy9)
 
