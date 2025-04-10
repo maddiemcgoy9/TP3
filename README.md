@@ -8,7 +8,7 @@ Madeline McGaughey: [@maddiemcgoy9](https://github.com/maddiemcgoy9)
 
 John Mintz
 
-Morgan Tench
+Morgan Warner: [@MorganTench](https://github.com/MorganTench/MSBAportfolio)
 
 ## Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
 ## Project Details: With logical organization and clear but concise writeups.
