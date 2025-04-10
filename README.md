@@ -3,9 +3,13 @@
 ## Nice visuals to illustrate your main concepts and why this project is important for businesses.
 ## Author List: With links to each member's GitHub page. Each member's GitHub page should have a proper readme profile with a well-written bio.
 Desmond Harvey
+
 Madeline McGaughey: [@maddiemcgoy9](https://github.com/maddiemcgoy9)
+
 John Mintz
+
 Morgan Tench
+
 ## Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
 ## Project Details: With logical organization and clear but concise writeups.
 ## What's next? Help us envision future developments and concerns.
