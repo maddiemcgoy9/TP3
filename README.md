@@ -12,11 +12,8 @@ Morgan Warner: [@MorganTench](https://github.com/MorganTench/MSBAportfolio)
 
 ## Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
 
-Short Term Scope: Create an AI model that can evaluate short typed essays.
+Short Term Scope: Create an AI model that can evaluate short typed essays. Create a simple website demo that can evaluate thesis statements. 
 
-Mid Term Scope: Merge model with handwriting AI model to read handwritten essays.
-
-Long Term Scope: Implement AI handwritten essay grader for AP essay grading. 
 
 
 ## Project Details: With logical organization and clear but concise writeups.
@@ -26,6 +23,9 @@ Long Term Scope: Implement AI handwritten essay grader for AP essay grading.
 
 I messed a bit with vibe coding as well.  Here is my version, but I am good with whatever - Maddie 
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec)
+Mid Term Scope: Merge model with handwriting AI model to read handwritten essays.
+
+Long Term Scope: Implement AI handwritten essay grader for AP essay grading. 
 
 ## Responsible AI considerations
 
