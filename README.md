@@ -6,7 +6,7 @@ Desmond Harvey: [@Desmond-Harvey](https://github.com/Desmond-Harvey)
 
 Madeline McGaughey: [@maddiemcgoy9](https://github.com/maddiemcgoy9)
 
-John Mintz
+John Mintz: [@jpmintz](https://github.com/jpmintz)
 
 Morgan Warner: [@MorganTench](https://github.com/MorganTench/MSBAportfolio)
 
