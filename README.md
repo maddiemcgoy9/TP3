@@ -28,9 +28,9 @@ I messed a bit with vibe coding as well.  Here is my version, but I am good with
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec)
 
 ## Responsible AI considerations
-## A reference list with links to the references you have used, and any additional resources relevant to this topic. The reference list should include at least one relevant research paper (not news articles, medium, blog, library documentation, or LinkedIn posts) that is high quality, less than 3 years old, and from one of the research sources listed below. Note that if a project topic lists specific paper(s), they must be included and presented.
 
 ## References
+A reference list with links to the references you have used, and any additional resources relevant to this topic. The reference list should include at least one relevant research paper (not news articles, medium, blog, library documentation, or LinkedIn posts) that is high quality, less than 3 years old, and from one of the research sources listed below. Note that if a project topic lists specific paper(s), they must be included and presented.
 
 [College Board](https://www.totalregistration.net/AP-Exam-Registration-Service/Follow-The-Money-History-of-College-Board-Finances.php)
 
