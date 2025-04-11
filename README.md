@@ -1,6 +1,9 @@
 # TP3
 # Add this:
 ## Nice visuals to illustrate your main concepts and why this project is important for businesses.
+
+![image](https://www.totalregistration.net/images/CBFinances/HistoryNumExamsExamFee.png)
+
 ## Author List: With links to each member's GitHub page. Each member's GitHub page should have a proper readme profile with a well-written bio.
 Desmond Harvey: [@Desmond-Harvey](https://github.com/Desmond-Harvey)
 
@@ -11,6 +14,14 @@ John Mintz: [@jpmintz](https://github.com/jpmintz)
 Morgan Warner: [@MorganTench](https://github.com/MorganTench/MSBAportfolio)
 
 ## Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
+
+Short Term Scope: Create an AI model that can evaluate short typed essays.
+
+Mid Term Scope: Merge model with handwriting AI model to read handwritten essays.
+
+Long Term Scope: Implement AI handwritten essay grader for AP essay grading. 
+
+
 ## Project Details: With logical organization and clear but concise writeups.
 ## What's next? Help us envision future developments and concerns.
 ## Responsible AI considerations
