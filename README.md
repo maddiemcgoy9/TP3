@@ -34,5 +34,9 @@ A reference list with links to the references you have used, and any additional 
 
 [College Board](https://www.totalregistration.net/AP-Exam-Registration-Service/Follow-The-Money-History-of-College-Board-Finances.php)
 
+Here is the article that led us to choosing this topic and gives some background information on different NLP and CNN models that could be used to automate essay grading: 
+
+[Automated Essay Grading](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0324)
+
 
 
