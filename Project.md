@@ -29,6 +29,8 @@ Please return both the .gs file and the HTML file as separate code blocks.
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay.   
 **Claude AI prompt:** 
 
+Can you create a website that grades essays based on topic and how well it is written.  Can you create this in two files: a HTML and .gs
+
 
 ## What are future developments?
 
