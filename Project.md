@@ -26,7 +26,7 @@ The web app should:
 If real AI integration isn't possible, simulate the evaluation with a simple keyword-matching heuristic or any placeholder logic. Use vanilla HTML (with basic inline styling if needed) and Google Apps Script for the backend logic.
 Please return both the .gs file and the HTML file as separate code blocks.
 
-[Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay. 
+[Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay.   
 **Claude AI prompt:** 
 
 
