@@ -37,9 +37,9 @@ Can you create a website that grades essays based on topic and how well it is wr
 
 ## What are future developments?
 
-Mid Term Developments: The model can be further developed to incorporate AI vision models to read handwritten essays. This could alleviate or erase the issue of handwriting influence the grading of essays. This system could also be used to identify students who may struggle with their handwriting and need improvement to address issues. 
+Mid Term Developments: The model can be enhanced by integrating AI vision technology capable of reading and interpreting handwritten essays. This advancement would help minimize, or even eliminate, the impact of handwriting quality on grading accuracy. Additionally, it could serve as a tool to identify students who may need support in improving their handwriting, promoting more equitable assessments.
 
-Long Term Developments: Testing and deployment of an AI essay grader for handwritten AP essays. This could provide significant cost relief and remove human biases within the current process. The waiting period for delivering grades back to students could potentially be decreased with an AI essay grader providing enhanced personalized feedback. 
+Long Term Developments: A fully tested and deployed AI essay grading system for handwritten AP essays could deliver significant benefits. These include reducing grading costs, eliminating potential human biases, and accelerating the turnaround time for score reporting. Furthermore, such a system could enable more personalized, constructive feedback for students—enhancing the overall educational experience.
 
 ## Responsible AI considerations
 
