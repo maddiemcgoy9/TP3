@@ -14,7 +14,7 @@ John Mintz: [@jpmintz](https://github.com/jpmintz)
 Morgan Warner: [@MorganTench](https://github.com/MorganTench)  
 
 ## References
-A reference list with links to the references you have used, and any additional resources relevant to this topic. The reference list should include at least one relevant research paper (not news articles, medium, blog, library documentation, or LinkedIn posts) that is high quality, less than 3 years old, and from one of the research sources listed below. Note that if a project topic lists specific paper(s), they must be included and presented.
+
 
 [Automated Essay Grading](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0324): article that led us to choosing this topic. It provides background information on different NLP (Natural Language Processing) and CNN (Convolutional Neural Network) models that could be used to automate essay grading.
 
