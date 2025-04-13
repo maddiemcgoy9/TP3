@@ -6,8 +6,8 @@ Create a website demo that can evaluate typed essays.
 
 ## Project Details: With logical organization and clear but concise writeups.
 
-Using Keras Sequential models for text analysis using LSTM (long short term memory).  
-Removal of stop words (e.g. articles, conjunctions, prepositions)
+Using Keras Sequential models for text analysis using a Bidirectional LSTM (long short term memory).  
+Removal of stop words (e.g. articles, conjunctions, prepositions), this helps the model focus only on the more important words in the essays. LSTM models are great for understanding patterns in text (like sentences) and so they're good for an application like this where we want to train a model to try to understand lots of text. Bidirectional LSTM means that the model reads the essays from both directions to increase understanding.
 
 
 
