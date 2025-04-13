@@ -1,9 +1,12 @@
 ## Project Scope: 
 
-Create an AI model that can evaluate short (less than 1800 words) typed essays. Create a simple website demo that can evaluate thesis statements. Create a website demo that can evaluate typed essays. 
+Create an AI model that can evaluate short (less than 1800 words) typed essays.  
+Create a simple website demo that can evaluate thesis statements.  
+Create a website demo that can evaluate typed essays. 
 
 ## Project Details: With logical organization and clear but concise writeups.
 
+Using Keras Sequential models
 
 
 [Essay Introduction Evaluator](https://script.google.com/macros/s/AKfycbxRluQljBoN2PC1dW4iDnAkObKuLUhs7R7orDWjLOWQ7Kjl9WJb4yvy1V0dmwD0XWM/exec): initial model to evaluate single thesis statement.
