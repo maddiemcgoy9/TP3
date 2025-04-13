@@ -11,9 +11,24 @@ Removal of stop words (e.g. articles, conjunctions, prepositions)
 
 
 
-[Essay Introduction Evaluator](https://script.google.com/macros/s/AKfycbxRluQljBoN2PC1dW4iDnAkObKuLUhs7R7orDWjLOWQ7Kjl9WJb4yvy1V0dmwD0XWM/exec): initial model to evaluate single thesis statement.
+[Essay Introduction Evaluator](https://script.google.com/macros/s/AKfycbxRluQljBoN2PC1dW4iDnAkObKuLUhs7R7orDWjLOWQ7Kjl9WJb4yvy1V0dmwD0XWM/exec): initial model to evaluate single thesis statement.  
+**Claude AI prompt:**   
+Please generate a Google Apps Script (.gs) and an accompanying HTML file for a Google Apps Script Web App. The purpose is to help users create an introduction sentence for an essay based on one of the following historical prompts:
+1. The Legacy of Columbus: How did Christopher Columbus's voyages impact both Europe and the Americas, and what are the lasting consequences of his actions?
+2. The Industrial Revolution: How did the Industrial Revolution change society and the economy, and what were the positive and negative consequences of these changes?
+3. The Rise and Fall of Rome: What factors contributed to the rise and eventual fall of the Roman Empire?
+The web app should:
+* Provide a dropdown menu for the user to select one of the prompts.
+* Include a text input field where the user can write a one-sentence introduction for their essay.
+* When the user clicks a “Check My Intro” button, it should send the selected prompt and the user’s introduction to an AI model (simulate this if necessary).
+* The AI should evaluate how on-topic and relevant the introduction is compared to the selected prompt and return a numerical rating from 1 to 10, where 10 means perfectly on-topic and 1 means not relevant at all.
+* Display the numerical rating clearly on the page.
+If real AI integration isn't possible, simulate the evaluation with a simple keyword-matching heuristic or any placeholder logic. Use vanilla HTML (with basic inline styling if needed) and Google Apps Script for the backend logic.
+Please return both the .gs file and the HTML file as separate code blocks.
 
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay. 
+**Claude AI prompt:** 
+
 
 ## What are future developments?
 
