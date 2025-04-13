@@ -27,6 +27,9 @@ If real AI integration isn't possible, simulate the evaluation with a simple key
 Please return both the .gs file and the HTML file as separate code blocks.
 
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay.   
+
+[New Essay Grader](https://script.google.com/macros/s/AKfycbw4Z-PU0sT6ND2Ib9aURANEPxxhq47V2wBXG2fkz6Ei-_d4J5Hn3l6T5X8ao-9KwoBx/exec)
+
 **Claude AI prompt:** 
 
 Can you create a website that grades essays based on topic and how well it is written.  Can you create this in two files: a HTML and .gs
