@@ -13,6 +13,11 @@ Madeline McGaughey: [@maddiemcgoy9](https://github.com/maddiemcgoy9)
 John Mintz: [@jpmintz](https://github.com/jpmintz)  
 Morgan Warner: [@MorganTench](https://github.com/MorganTench)  
 
+## About the Paper
+
+This paper introduces a new AI model called DualBERT-Trans-CNN that automatically grades essays by looking at both the overall quality and specific writing traits.  These traits include content, organization, grammar, word choice and many more. Most older systems give just one overall score to an essay, but this model gives detailed feedback by analyzing essays from two angles: the big picture and the smaller details. It uses BERT, a powerful language model, to understand the essay's meaning and structure. Compared to other multi task models, it improved holistic scoring by 2% on the ASAP++ dataset.  When compared to single task models, it improved trait specific scoring by an average of 3.6%.  Overall, the combination of overall essay understanding and trait analysis help the model give more accurate feedback.
+
+
 ## References
 
 
