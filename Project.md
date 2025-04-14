@@ -6,8 +6,17 @@ Create a website demo that can evaluate typed essays.
 
 ## Project Details: With logical organization and clear but concise writeups.
 
-Using Keras Sequential models for text analysis using a Bidirectional LSTM (long short term memory).  
-Removal of stop words (e.g. articles, conjunctions, prepositions), this helps the model focus only on the more important words in the essays. LSTM models are great for understanding patterns in text (like sentences) and so they're good for an application like this where we want to train a model to try to understand lots of text. Bidirectional LSTM means that the model reads the essays from both directions to increase understanding.
+### How AI Model was set up  
+Used Keras Sequential models for text analysis using a Bidirectional LSTM (long short term memory).  
+Removal of stop words (e.g. articles, conjunctions, prepositions), this helps the model focus only on the more important words in the essays. LSTM models are great for understanding patterns in text (like sentences) and so they're good for an application like this where we want to train a model to try to understand lots of text. Bidirectional LSTM means that the model reads the essays from both directions to increase understanding.  
+Model has 4 hidden layers:
+  - non-hidden layer: Embeddings with initial input
+  - dropout: 20%
+  - Bidirectional LSTM
+  - Dense Relu
+  - Dense regression output layer
+
+Compiled using Adaptive Moment Estimation (adam), with loss determined by mean square error.
 
 ### How well did the Model Work
 
@@ -37,6 +46,8 @@ Can you create a website that grades essays based on topic and how well it is wr
 
 
 ## What are future developments?
+
+Short Term Developments: Current model does not take into account the prompt that the essay is based upon. Adding this as a dummy code may improve model performance. 
 
 Mid Term Developments: The model can be enhanced by integrating AI vision technology capable of reading and interpreting handwritten essays. This advancement would help minimize, or even eliminate, the impact of handwriting quality on grading accuracy. Additionally, it could serve as a tool to identify students who may need support in improving their handwriting, promoting more equitable assessments.
 
