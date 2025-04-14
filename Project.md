@@ -27,6 +27,7 @@ If real AI integration isn't possible, simulate the evaluation with a simple key
 Please return both the .gs file and the HTML file as separate code blocks.
 
 [Essay Grader](https://script.google.com/macros/s/AKfycbzGV3livLefoWqqA5_ESHbr2LCdNVGhEmmOcsFRCfuj_8Xir6s-3nOGmptz_W9oUvQX/exec): expanded model to evaluate multi-paragraph essay.   
+[New Essay Grader](https://script.google.com/macros/s/AKfycbxjCzwXN1V3rtfi9Em-WEuevVWTUA6250BULKthNIneI0MTOQw5tYvRKIfU1IeAz95ojw/exec)
 
 **Claude AI prompt:** 
 
