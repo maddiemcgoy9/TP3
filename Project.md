@@ -4,7 +4,7 @@ Create an AI model that can evaluate short (less than 1800 words) typed essays.
 Create a simple website demo that can evaluate thesis statements.  
 Create a website demo that can evaluate typed essays. 
 
-## Project Details: With logical organization and clear but concise writeups.
+## Project Details: 
 
 ### How AI Model was set up  
 Used Keras Sequential models for text analysis using a Bidirectional LSTM (long short term memory).  
