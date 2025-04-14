@@ -21,7 +21,7 @@ Compiled using Adaptive Moment Estimation (adam), with loss determined by mean s
 ### How well did the Model Work
 
 ![Mae over Epoch](MAEoverEpoch.png)
-
+![Error Distrobution](errordistro.png)
 [Essay Introduction Evaluator](https://script.google.com/macros/s/AKfycbxRluQljBoN2PC1dW4iDnAkObKuLUhs7R7orDWjLOWQ7Kjl9WJb4yvy1V0dmwD0XWM/exec): initial model to evaluate single thesis statement.  
 **Claude AI prompt:**   
 Please generate a Google Apps Script (.gs) and an accompanying HTML file for a Google Apps Script Web App. The purpose is to help users create an introduction sentence for an essay based on one of the following historical prompts:
